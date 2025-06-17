@@ -70,10 +70,6 @@
 	path = extensions/anthracite-theme
 	url = https://github.com/boycsuk/anthracite-theme.git
 
-[submodule "extensions/anya"]
-	path = extensions/anya
-	url = https://github.com/anya-theme/anya-zed.git
-
 [submodule "extensions/anysphere-theme"]
 	path = extensions/anysphere-theme
 	url = https://github.com/stpn48/anysphere-zed-theme
@@ -646,6 +642,10 @@
 	path = extensions/ezio-theme
 	url = https://github.com/dsantolo/ezio-zed.git
 
+[submodule "extensions/fastapi-snippets"]
+	path = extensions/fastapi-snippets
+	url = https://github.com/NarmadaWeb/fastapi-snippets-zed.git
+
 [submodule "extensions/fiberplane-studio"]
 	path = extensions/fiberplane-studio
 	url = https://github.com/keturiosakys/zed-fp-studio.git
@@ -713,6 +713,10 @@
 [submodule "extensions/gafelson-theme"]
 	path = extensions/gafelson
 	url = https://github.com/GafelSon/zed-theme.git
+
+[submodule "extensions/gcode"]
+	path = extensions/gcode
+	url = https://github.com/ChocolateNao/zed-gcode.git
 
 [submodule "extensions/gdscript"]
 	path = extensions/gdscript
@@ -929,10 +933,6 @@
 [submodule "extensions/iceicebergy"]
 	path = extensions/iceicebergy
 	url = https://github.com/jmsdnns/zed-iceicebergy.git
-
-[submodule "extensions/idris2"]
-	path = extensions/idris2
-	url = https://github.com/srghma/zed-idris2
 
 [submodule "extensions/indigo"]
 	path = extensions/indigo
@@ -2180,7 +2180,7 @@
 
 [submodule "extensions/termux"]
 	path = extensions/termux
-	url = https://gitlab.com/paveloom-g/rust/zed-termux
+	url = https://gitlab.com/paveloom-g/rust/zed-termux.git
 
 [submodule "extensions/terraform"]
 	path = extensions/terraform
